@@ -108,7 +108,6 @@ $ npm start (for React client side development)
 
 <p align="center">
 <p>Screenshoots of some main features</p>
-<img src=./demo_images/desktop.png>
 <p align="center">
   <img src="./demo_images/iphone1.png" width="200" height="356">
 &nbsp; &nbsp; &nbsp; &nbsp;
