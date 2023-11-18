@@ -160,9 +160,5 @@ $ npm start (for React client side development)
 
 # Author
 
-👤 &nbsp; **Atharva Yawalkar**
+👤 &nbsp; **Ashish Raj**
 
-- My website : [My website](https://atharva137.github.io/Atharva_Yawalkar/myPortfolio/)
-- Github :     [@atharva137](https://github.com/atharva137)
-- Linkedin :   [Atharva-yawalkar](https://www.linkedin.com/in/atharva-yawalkar-2416b41b2/)
-- Email :      [atharvayawalkar1377@gmail.com](mailto:atharvayawalkar1377@gmail.com)
